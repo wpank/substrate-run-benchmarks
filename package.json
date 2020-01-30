@@ -1,0 +1,15 @@
+{
+  "name": "substrate-run-benchmarks",
+  "version": "1.0.0",
+  "description": "Run runtime benchmarks.",
+  "main": "index.js",
+  "author": "Shawn Tabrizi <shawntabrizi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/api": "^1.0.0-beta.42",
+    "@polkadot/types": "^1.0.0-beta.42"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
